@@ -1,0 +1,8 @@
+GOOGLE ACCOUNT
+id=armnf1976@gmail.com
+pass=armnf1234
+
+
+MICROSOFT ACCOUNT
+id=armnf1976@outlook.com
+pass=armnf1234
